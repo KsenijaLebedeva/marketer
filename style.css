@@ -18,8 +18,10 @@
     /* TEXT DECORATIONS */
     
     h1 span {
-        text-decoration: underline 12px #EC5430 !important;
-        -webkit-text-decoration-line: underline 4px #EC5430 !important;
+        text-decoration-line: underline 12px !important;
+        -webkit-text-decoration-line: underline 12px!important;
+        text-decoration-color: #EC5430 !important;
+        -webkit-text-decoration-color: #EC5430 !important;
         text-underline-position: under;
         -webkit-text-underline-position: under;
     }
