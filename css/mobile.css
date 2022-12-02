@@ -4,7 +4,7 @@
         max-width: 1027.2px;
     }
     h1 span {
-        text-decoration-line: underline 9.6px #EC5430 !important;
+        text-decoration: underline 9.6px #EC5430 !important;
         -webkit-text-decoration-line: underline 9.6px #EC5430 !important;
     }
     h1,
