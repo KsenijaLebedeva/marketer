@@ -1127,7 +1127,7 @@
     }
     .team-links a img {
         width: 25%;
-        height: 25%;
+        height: auto;
     }
     .slider-svg {
         width: 146px;
