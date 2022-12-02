@@ -9,7 +9,7 @@ span.onclick = function() {
 
 // show start window
 $(window).on('load', function() {
-    modal.style.display = "none";
+    modal.style.display = "block";
     $("body").css("overflow", "hidden");
 }); 
 
