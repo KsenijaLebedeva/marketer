@@ -333,10 +333,13 @@
         font-size: 11.2px;
     }
     .email {
+        display: flex;
         width: 500px;
     }
     .send-email {
-        right: 64px;
+         display: flex;
+        position: relative;
+        padding-left: 25px;
         width: 28px;
         height: 24px;
     }
@@ -767,10 +770,13 @@
         font-size: 7px;
     }
     .email {
+        display: flex;
         width: 312.5px;
     }
     .send-email {
-        right: 40px;
+         display: flex;
+        position: relative;
+        padding-left: 40px;
         width: 17.5px;
         height: 15px;
     }
@@ -1213,12 +1219,13 @@
         font-size: 3.5px;
     }
     .email {
+        display: flex;
         width: 156.25px;
     }
     .send-email {
         display: flex;
         position: relative;
-        padding-left: 25px;
+        padding-left: 65px;
         width: 8.75px;
         height: 7.5px;
     }
