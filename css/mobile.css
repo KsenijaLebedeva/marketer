@@ -4,8 +4,8 @@
         max-width: 1027.2px;
     }
     h1 span {
-        text-decoration: underline 9.6px #EC5430 !important;
-        -webkit-text-decoration: underline 9.6px #EC5430 !important;
+        text-decoration-line: underline 9.6px #EC5430 !important;
+        -webkit-text-decoration-line: underline 9.6px #EC5430 !important;
     }
     h1,
     .heading {
@@ -441,8 +441,8 @@
         width: 642px;
     }
     h1 span {
-        text-decoration: underline 6px #EC5430 !important;
-        -webkit-text-decoration: underline 6px #EC5430 !important;
+        text-decoration-line: underline 6px #EC5430 !important;
+        -webkit-text-decoration-line: underline 6px #EC5430 !important;
     }
     h1,
     .heading {
@@ -876,8 +876,8 @@
         width: 321px;
     }
     h1 span {
-        text-decoration: underline 3px #EC5430 !important;
-        -webkit-text-decoration: underline 3px #EC5430 !important;
+        text-decoration-line: underline 3px #EC5430 !important;
+        -webkit-text-decoration-line: underline 3px #EC5430 !important;
     }
     h1,
     .heading {
