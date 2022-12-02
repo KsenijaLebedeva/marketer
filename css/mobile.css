@@ -1217,7 +1217,8 @@
     }
     .send-email {
         display: flex;
-        margin-right: -20px;
+        position: relative;
+        padding-left: 25px;
         width: 8.75px;
         height: 7.5px;
     }
