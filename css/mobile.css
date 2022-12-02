@@ -5,6 +5,7 @@
     }
     h1 span {
         text-decoration: underline 9.6px #EC5430 !important;
+        -webkit-text-decoration: underline 9.6px #EC5430 !important;
     }
     h1,
     .heading {
@@ -441,6 +442,7 @@
     }
     h1 span {
         text-decoration: underline 6px #EC5430 !important;
+        -webkit-text-decoration: underline 6px #EC5430 !important;
     }
     h1,
     .heading {
@@ -875,6 +877,7 @@
     }
     h1 span {
         text-decoration: underline 3px #EC5430 !important;
+        -webkit-text-decoration: underline 3px #EC5430 !important;
     }
     h1,
     .heading {
