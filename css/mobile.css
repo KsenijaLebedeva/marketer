@@ -250,7 +250,7 @@
         padding: 0 5px;
     }
     .team-links a img {
-        width: 100%;
+        width: 80%;
         height: auto;
     }
     .slider-svg {
@@ -685,7 +685,7 @@
     }
     .team-links a img {
         width: 50%;
-        height: 50%;
+        height: auto;
     }
     .slider-svg {
         width: 292px;
