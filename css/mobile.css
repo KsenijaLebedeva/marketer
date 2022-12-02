@@ -1,0 +1,1314 @@
+@media only screen and (max-width: 1300px) {
+    /* 0.8 */
+    .container {
+        max-width: 1027.2px;
+    }
+    h1 span {
+        text-decoration: underline 9.6px #EC5430 !important;
+    }
+    h1,
+    .heading {
+        font-size: 70.4px;
+        line-height: 94.4px;
+    }
+    h1 {
+        padding-top: 76px;
+    }
+    .navbar-button,
+    .nav-link {
+        font-size: 14.4px;
+    }
+    .show-more {
+        font-size: 28px;
+        line-height: 12px;
+    }
+    .card-body p {
+        font-size: 28.8px;
+        line-height: 16px;
+    }
+    .member p {
+        font-size: 22.4px;
+    }
+    .slider-left p {
+        font-size: 16px;
+        line-height: 22.4px;
+    }
+    .company-name {
+        font-size: 22.4px;
+        line-height: 22.4px;
+    }
+    .footer-list a,
+    .send p {
+        font-size: 12.8px;
+    }
+    .privacy p,
+    .logo p {
+        font-size: 11.2px;
+    }
+    .heading span {
+        height: 85.6px;
+        border: 0.8px solid #EC5430 !important;
+        padding-bottom: 14.4px;
+    }
+    .text {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .start {
+        font-size: 17.6px;
+    }
+    .footer h2 {
+        font-size: 20.8px;
+    }
+    .nav-link {
+        font-size: 16px;
+        line-height: 17.6px;
+    }
+    .navbar {
+        height: 107.2px !important;
+    }
+    .navbar-collapse {
+        background-color: #ECD1BE;
+        z-index: 100;
+    }
+    .navbar-brand svg {
+        width: 116.8px;
+        height: 17.6px;
+    }
+    .navbar-nav {
+        padding-left: 0px;
+    }
+    .nav-item {
+        padding: 0 1.6px 0 1.6px;
+    }
+    .navbar-button {
+        margin-top: 15px;
+        margin-bottom: 20px;
+        width: 153.6px;
+        height: 32px;
+        border: 0.8px solid #EC5430;
+        border-radius: 132.8px;
+    }
+    .navbar-button:hover {
+        border: 0.8px solid #1a733a;
+    }
+    /* header content */
+    .header-text {
+        padding-top: 24px;
+    }
+    .text {
+        padding-top: 30.4px;
+    }
+    header {
+        padding-bottom: 80px;
+    }
+    /* ABOUT US */
+    .about-us,
+    .clients-container {
+        background-size: 55%;
+        min-height: 576px;
+    }
+    .about-us .header-text {
+        padding-top: 80px;
+    }
+    .image img {
+        width: 412px;
+        height: 425.6px;
+        border-radius: 40px;
+        border: 1.6px solid #FFFFFF;
+    }
+    /* SOLUTIONS */
+    #solutions {
+        min-height: 640px !important;
+    }
+    .solutions {
+        padding-top: 52px;
+        padding-bottom: 80px;
+    }
+    .solution {
+        padding: 16px 8px !important;
+        margin: 0 -8px 0 -8px;
+    }
+    .item-text {
+        padding-top: 24px;
+        line-height: 32px;
+    }
+    .show-more {
+        border-radius: 32px;
+        min-height: 168px;
+        padding: 10px 16px 0px 24px;
+    }
+    .show-more:active {
+        border: 1.6px solid #FFFF;
+    }
+    .card-body {
+        padding: 36px 32px 32px 40px;
+        border-radius: 32px;
+    }
+    .card-body img {
+        border-radius: 40px;
+        border: 1.6px solid #FFFF;
+        width: 304px;
+        height: 304px;
+    }
+    .card-text {
+        height: 216px;
+    }
+    .card-text p {
+        line-height: 40px !important;
+        padding-right: 40px;
+    }
+    /* CLIENTS */
+    .clients-container {
+        padding-bottom: 160px;
+    }
+    .clients {
+        margin-left: -68px;
+        padding-top: 60px;
+    }
+    .client {
+        padding-left: 68px;
+    }
+    .client-name {
+        margin-top: 16px;
+        margin-bottom: -4px;
+    }
+    .clients-list li img,
+    .clients img {
+        width: 150.4px;
+        height: 150.4px;
+        border: 1.6px solid #FFFFFF;
+    }
+    .slides input {
+        width: 0.8rem;
+        height: 0.8rem;
+    }
+    .slider-input {
+        margin-top: 576px;
+        width: 0.8rem;
+        height: 0.8rem;
+    }
+    #slide1 {
+        margin-right: 52px;
+    }
+    #slide3 {
+        margin-left: 52px;
+    }
+    .slider .text {
+        width: 388px;
+        padding: 112px 8px 0px 0px;
+        margin-left: 144px;
+    }
+    .slider-content {
+        height: 592px;
+    }
+    .slide-content {
+        width: 615.2px;
+        height: 544px;
+        margin: 0 4px;
+        border-radius: 32px;
+    }
+    .slide-content button {
+        border-radius: 32px;
+    }
+    #slider-button {
+        width: 615.2px;
+        border-radius: 32px;
+    }
+    #slide1:checked~.slides .s1 {
+        margin-left: 1264px;
+    }
+    #slide3:checked~.slides .s1 {
+        margin-left: -1264px;
+    }
+    .slider {
+        padding: 0 40px;
+        height: 800px;
+    }
+    /* TEAM and PARTNERS*/
+    .member-list {
+        padding: 44px 0 0 0;
+        margin-left: -72px;
+    }
+    .member {
+        padding-left: 72px;
+    }
+    .member-img {
+        width: 150.4px;
+        height: 150.4px;
+        border-radius: 240px;
+        border: 1.6px solid #221F20;
+    }
+    .member-name {
+        padding-top: 8px;
+    }
+    .position {
+        margin-top: -8px;
+    }
+    .team-links a {
+        padding: 0 5px;
+    }
+    .team-links a img {
+        width: 80%;
+        height: 80%;
+    }
+    .slider-svg {
+        width: 467.2px;
+        height: 278.4px;
+        margin-top: 112px;
+        margin-right: 40px;
+    }
+    .slider2-svg {
+        width: 467.2px;
+        height: 431.2px;
+        margin-top: -24px;
+        margin-right: 40px;
+    }
+    /* CONTACTS */
+    #contacts {
+        min-height: 576px;
+    }
+    .contacts-list {
+        padding-top: 49.6px;
+        margin-right: -80px;
+    }
+    .contacts-lists ul li img {
+        height: 100px !important;
+    }
+    .contacts-list p {
+        padding-top: 16px;
+        padding-right: 80px;
+    }
+    /* FOOTER */
+    footer {
+        min-height: 388px;
+    }
+    .logos ul li {
+        margin: 0 0 0 22px;
+    }
+    .logos ul li a img {
+        height: 18.856px;
+    }
+    .privacy p {
+        margin: 0 0 0 28px;
+    }
+    .logo p {
+        padding-top: 8px;
+    }
+    .logo img {
+        width: 199.656px;
+        height: 30.12px;
+    }
+    .footer {
+        padding-top: 80px;
+    }
+    .two {
+        padding-top: 48px;
+    }
+    .footer-list {
+        padding-top: 9.6px;
+        line-height: 32px;
+    }
+    .footer-list li a::after {
+        height: 1.6px;
+    }
+    .footer-menu2 {
+        padding-left: 38.4px;
+    }
+    .send {
+        padding-left: 76px;
+    }
+    .send p {
+        padding-top: 9.6px;
+    }
+    .send input {
+        border: 0.8px solid #FFFFFF;
+        height: 40px;
+        border-radius: 32px;
+        padding-left: 8px;
+        font-size: 14px;
+    }
+    .send input::placeholder {
+        font-size: 11.2px;
+    }
+    .email {
+        width: 500px;
+    }
+    .send-email {
+        right: 64px;
+        width: 28px;
+        height: 24px;
+    }
+    .send-email img {
+        width: 24.4px;
+    }
+    .privacy {
+        padding-bottom: 40px;
+    }
+    .footer-decor {
+        margin-top: -40px;
+        padding-left: 32px;
+    }
+    .footer-decor img {
+        width: 165.184px;
+        height: 152.336px;
+    }
+    .left-image svg {
+        width: 253.184px !important;
+        height: 233.488px !important;
+        margin-left: 16px;
+        margin-top: 4px;
+    }
+    .modal-center {
+        padding-top: 72px;
+    }
+    .modal-center img {
+        width: 275.752px;
+        height: 41.6px;
+    }
+    .modal-center span {
+        top: 160px;
+        width: 215.2px;
+        height: 51.2px;
+        border: 1.6px solid;
+    }
+    .right-image {
+        padding: 378.4px 84px 0 0;
+    }
+    .right-image svg {
+        width: 80px;
+        height: 80px;
+    }
+    .wrapper {
+        height: 360px;
+        padding: 0.8rem;
+    }
+    #partners .wrapper {
+        height: 328px;
+    }
+    #team {
+        padding-bottom: 40px;
+    }
+    #partners {
+        padding-bottom: 72px;
+    }
+    .wrapper input {
+        margin-right: 0.8rem;
+        width: 0.8rem;
+        height: 0.8rem;
+    }
+    .wrapper input+* {
+        border-radius: 4px;
+    }
+    .circle {
+        width: 80px;
+        height: 80px;
+        margin-top: 244px;
+        margin-left: 136px;
+    }
+    .sliders {
+        margin-top: -64px;
+    }
+    #slider-button,
+    #slider-button:active {
+        width: 615.2px;
+    }
+    .content {
+        height: 640px;
+    }
+    .slider img {
+        width: 89.6px;
+        height: 89.6px;
+        border: 1.6px solid #FFF;
+    }
+    .slider-top {
+        height: 80px;
+        padding: 28px 0 0 0;
+    }
+    .slider-left p {
+        width: 160px;
+        margin-left: -36px;
+    }
+    .company-name {
+        width: 160px;
+        padding: 29.6px 0 0 0;
+    }
+}
+
+@media only screen and (max-width: 1035px) {
+    .container {
+        width: 642px;
+    }
+    h1 span {
+        text-decoration: underline 6px #EC5430 !important;
+    }
+    h1,
+    .heading {
+        font-size: 44px;
+        line-height: 59px;
+    }
+    h1 {
+        padding-top: 47.5px;
+    }
+    .navbar-button,
+    .nav-link {
+        font-size: 9px;
+    }
+    .show-more {
+        font-size: 17.5px;
+        line-height: 7.5px;
+    }
+    .card-body p {
+        font-size: 18px;
+        line-height: 10px;
+    }
+    .member p {
+        font-size: 14px;
+    }
+    .slider-left p {
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .company-name {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .footer-list a,
+    .send p {
+        font-size: 8px;
+    }
+    .privacy p,
+    .logo p {
+        font-size: 7px;
+    }
+    .heading span {
+        height: 53.5px;
+        border: 0.5px solid #EC5430 !important;
+        padding-bottom: 9px;
+    }
+    .text {
+        font-size: 12.5px;
+        line-height: 17.5px;
+    }
+    .start {
+        font-size: 11px;
+    }
+    .footer h2 {
+        font-size: 13px;
+    }
+    .nav-link {
+        line-height: 11px;
+        font-size: 12px;
+    }
+    .navbar {
+        height: 67px !important;
+    }
+    .nav-item {
+        padding: 0 1px 0 1px;
+    }
+    .navbar-button {
+        width: 125px;
+        height: 27px;
+        font-size: 12px;
+        border: 0.5px solid #EC5430;
+        border-radius: 83px;
+    }
+    .navbar-button:hover {
+        border: 0.5px solid #1a733a;
+    }
+    /* header content */
+    .header-text {
+        padding-top: 15px;
+    }
+    .text {
+        padding-top: 19px;
+    }
+    header {
+        padding-bottom: 50px;
+    }
+    /* ABOUT US */
+    .about-us,
+    .clients-container {
+        background-size: 55%;
+        min-height: 360px;
+    }
+    .about-us .header-text {
+        padding-top: 50px;
+    }
+    .image img {
+        width: 257.5px;
+        height: 266px;
+        border-radius: 25px;
+        border: 1px solid #FFFFFF;
+    }
+    /* SOLUTIONS */
+    #solutions {
+        min-height: 400px !important;
+    }
+    .solutions {
+        padding-top: 32.5px;
+        padding-bottom: 50px;
+    }
+    .solution {
+        padding: 10px 5px !important;
+        margin: 0 -5px 0 -5px;
+    }
+    .item-text {
+        padding-top: 15px;
+        line-height: 20px;
+    }
+    .solution-item p,
+    .card-body p {
+        margin-bottom: 10px;
+    }
+    .show-more {
+        border-radius: 20px;
+        min-height: 105px;
+        padding: 5px 10px 0px 15px;
+    }
+    .show-more:active {
+        border: 1px solid #FFFF;
+    }
+    .card-body {
+        padding: 22.5px 20px 20px 25px;
+        border-radius: 20px;
+    }
+    .card-body img {
+        border-radius: 25px;
+        border: 1px solid #FFFF;
+        width: 190px;
+        height: 190px;
+    }
+    .card-text {
+        height: 135px;
+    }
+    .card-text p {
+        line-height: 25px !important;
+        padding-right: 25px;
+    }
+    /* CLIENTS */
+    .clients-container {
+        padding-bottom: 100px;
+    }
+    .clients {
+        margin-left: -42.5px;
+        padding-top: 37.5px;
+    }
+    .client {
+        padding-left: 42.5px;
+    }
+    .client-name {
+        margin-top: 10px;
+        margin-bottom: -2.5px;
+    }
+    .clients-list li img,
+    .clients img {
+        width: 94px;
+        height: 94px;
+        border: 1px solid #FFFFFF;
+    }
+    .slides input {
+        width: 0.5rem;
+        height: 0.5rem;
+    }
+    .slider-input {
+        margin-top: 360px;
+        width: 0.5rem;
+        height: 0.5rem;
+    }
+    #slide1 {
+        margin-right: 32.5px;
+    }
+    #slide3 {
+        margin-left: 32.5px;
+    }
+    .slider .text {
+        width: 242.5px;
+        padding: 70px 5px 0px 0px;
+        margin-left: 90px;
+    }
+    .slider-content {
+        height: 370px;
+    }
+    .slide-content {
+        width: 384.5px;
+        height: 340px;
+        margin: 0 2.5px;
+        border-radius: 20px;
+    }
+    .slide-content button {
+        border-radius: 20px;
+    }
+    #slider-button {
+        width: 384.5px;
+        border-radius: 20px;
+    }
+    #slide1:checked~.slides .s1 {
+        margin-left: 790px;
+    }
+    #slide3:checked~.slides .s1 {
+        margin-left: -790px;
+    }
+    .slider {
+        padding: 0 25px;
+        height: 500px;
+    }
+    /* TEAM and PARTNERS*/
+    .member-list {
+        padding: 27.5px 0 0 0;
+        margin-left: -45px;
+    }
+    .member {
+        padding-left: 45px;
+    }
+    .member-img {
+        width: 94px;
+        height: 94px;
+        border-radius: 150px;
+        border: 1px solid #221F20;
+    }
+    .member-name {
+        padding-top: 5px;
+        margin-bottom: 4px;
+    }
+    .position {
+        margin-top: -5px;
+        margin-bottom: 10px;
+    }
+    .team-links a {
+        padding: 0 0px 0 0px;
+    }
+    .team-links {
+        text-align: center;
+    }
+    .team-links a img {
+        width: 50%;
+        height: 50%;
+    }
+    .slider-svg {
+        width: 292px;
+        height: 174px;
+        margin-top: 70px;
+        margin-right: 25px;
+    }
+    .slider2-svg {
+        width: 292px;
+        height: 269.5px;
+        margin-top: -15px;
+        margin-right: 25px;
+    }
+    /* CONTACTS */
+    #contacts {
+        min-height: 360px;
+    }
+    .contacts-list {
+        padding-top: 31px;
+        margin-right: -50px;
+    }
+    .contacts-list ul li img {
+        height: 62.5px;
+    }
+    .contacts-list p {
+        padding-top: 10px;
+        padding-right: 50px;
+    }
+    /* FOOTER */
+    footer {
+        min-height: 242.5px;
+    }
+    .logos ul li {
+        margin: 0 0 0 20px;
+    }
+    .logos ul li a img {
+        height: 11.785px;
+    }
+    .privacy p {
+        margin: 0 0 0 17.5px;
+    }
+    .logo p {
+        padding-top: 5px;
+    }
+    .logo img {
+        width: 124.785px;
+        height: 18.825px;
+    }
+    .footer {
+        padding-top: 50px;
+    }
+    .two {
+        padding-top: 30px;
+    }
+    .footer-list {
+        padding-top: 6px;
+        line-height: 20px;
+    }
+    .footer-list li a::after {
+        height: 1px;
+    }
+    .footer-menu2 {
+        padding-left: 24px;
+    }
+    .send {
+        padding-left: 47.5px;
+    }
+    .send p {
+        padding-top: 6px;
+    }
+    .send input {
+        border: 0.5px solid #FFFFFF;
+        height: 25px;
+        border-radius: 20px;
+        padding-left: 5px;
+        font-size: 7px;
+    }
+    .send input::placeholder {
+        font-size: 7px;
+    }
+    .email {
+        width: 312.5px;
+    }
+    .send-email {
+        right: 40px;
+        width: 17.5px;
+        height: 15px;
+    }
+    .send-email img {
+        width: 15.25px;
+    }
+    .privacy {
+        padding-bottom: 25px;
+    }
+    .footer-decor {
+        margin-top: -25px;
+        padding-left: 20px;
+    }
+    .footer-decor img {
+        width: 103.24px;
+        height: 95.21px;
+    }
+    .left-image svg {
+        width: 158.24px !important;
+        height: 145.93px !important;
+        margin-left: 10px;
+        margin-top: 2.5px;
+    }
+    .modal-center {
+        padding-top: 45px;
+    }
+    .modal-center img {
+        width: 172.345px;
+        height: 26px;
+    }
+    .modal-center span {
+        top: 100px;
+        width: 134.5px;
+        height: 32px;
+        border: 1px solid;
+    }
+    .right-image {
+        padding: 236.5px 52.5px 0 0;
+    }
+    .right-image svg {
+        width: 50px;
+        height: 50px;
+    }
+    .wrapper {
+        height: 225px;
+        padding: 0.5rem;
+    }
+    #partners .wrapper {
+        height: 205px;
+    }
+    #team {
+        padding-bottom: 25px;
+    }
+    #partners {
+        padding-bottom: 45px;
+    }
+    .wrapper input {
+        margin-right: 0.5rem;
+        width: 0.5rem;
+        height: 0.5rem;
+    }
+    .wrapper input+* {
+        border-radius: 2.5px;
+    }
+    .circle {
+        width: 50px;
+        height: 50px;
+        margin-top: 152.5px;
+        margin-left: 85px;
+    }
+    .sliders {
+        margin-top: -40px;
+    }
+    #slider-button,
+    #slider-button:active {
+        width: 384.5px;
+    }
+    .content {
+        height: 400px;
+    }
+    .slider img {
+        width: 56px;
+        height: 56px;
+        border: 1px solid #FFF;
+    }
+    .slider-top {
+        height: 50px;
+        padding: 17.5px 0 0 0;
+    }
+    .slider-left p {
+        width: 100px;
+        margin-left: -22.5px;
+    }
+    .company-name {
+        width: 100px;
+        padding: 18.5px 0 0 0;
+    }
+}
+
+@media only screen and (max-width: 642px) {
+    /* 0.25 */
+    .container {
+        width: 321px;
+    }
+    h1 span {
+        text-decoration: underline 3px #EC5430 !important;
+    }
+    h1,
+    .heading {
+        font-size: 22px;
+        line-height: 29.5px;
+    }
+    h1 {
+        padding-top: 23.75px;
+    }
+    .navbar-button,
+    .nav-link {
+        font-size: 8px;
+    }
+    .navbar-toggler {
+        font-size: 10px;
+        padding: 0.1rem 0.4rem;
+        border-radius: 1px;
+    }
+    .navbar-brand svg {
+        width: 73px;
+        height: 11px;
+    }
+    .show-more {
+        font-size: 8.75px;
+        line-height: 3.75px;
+    }
+    .card-body p {
+        font-size: 9px;
+        line-height: 5px;
+    }
+    .member p {
+        font-size: 7px;
+    }
+    .slider-left p {
+        font-size: 5px;
+        line-height: 7px;
+    }
+    .company-name {
+        font-size: 7px;
+        line-height: 7px;
+    }
+    .footer-list a,
+    .send p {
+        font-size: 4px;
+    }
+    .privacy p,
+    .logo p {
+        font-size: 3.5px;
+    }
+    .heading span {
+        height: 26.75px;
+        border: 0.25px solid #EC5430 !important;
+        padding-bottom: 4.5px;
+    }
+    .text {
+        font-size: 6.25px;
+        line-height: 8.75px;
+    }
+    .start {
+        font-size: 5.5px;
+    }
+    .footer h2 {
+        font-size: 6.5px;
+    }
+    .nav-link {
+        line-height: 7px;
+    }
+    .navbar {
+        height: 33.5px !important;
+    }
+    .nav-item {
+        padding: 0 0.5px 0 0.5px;
+    }
+    .navbar-button {
+        width: 76px;
+        height: 18px;
+        margin: 7px 0 10px 0;
+        border: 0.25px solid #EC5430;
+        border-radius: 41.5px;
+    }
+    .navbar-button:hover {
+        border: 0.25px solid #1a733a;
+    }
+    /* header content */
+    .header-text {
+        padding-top: 7.5px;
+    }
+    .text {
+        padding-top: 9.5px;
+    }
+    header {
+        padding-bottom: 25px;
+    }
+    /* ABOUT US */
+    .about-us,
+    .clients-container {
+        min-height: 180px;
+    }
+    .about-us .header-text {
+        padding-top: 25px;
+    }
+    .image img {
+        width: 128.75px;
+        height: 133px;
+        border-radius: 12.5px;
+        border: 0.5px solid #FFFFFF;
+    }
+    /* SOLUTIONS */
+    #solutions {
+        min-height: 200px !important;
+    }
+    .solutions {
+        padding-top: 16.25px;
+        padding-bottom: 25px;
+    }
+    .solution {
+        padding: 5px 2.5px !important;
+        margin: 0 -2.5px 0 -2.5px;
+    }
+    .item-text {
+        padding-top: 7.5px;
+        line-height: 10px;
+    }
+    .show-more {
+        border-radius: 10px;
+        min-height: 52.5px;
+        padding: 2.5px 5px 2.5px 7.5px;
+    }
+    .solution-item p,
+    .card-body p {
+        margin-bottom: 4px;
+    }
+    .show-more:active {
+        border: 0.5px solid #FFFF;
+    }
+    .card-body {
+        padding: 11.25px 10px 10px 12.5px;
+        border-radius: 10px;
+    }
+    .card-body img {
+        border-radius: 12.5px;
+        border: 0.5px solid #FFFF;
+        width: 95px;
+        height: 95px;
+    }
+    .card-text {
+        height: 67.5px;
+    }
+    .card-text p {
+        line-height: 12.5px !important;
+        padding-right: 12.5px;
+    }
+    /* CLIENTS */
+    .clients-container {
+        padding-bottom: 50px;
+    }
+    .clients {
+        margin-left: -21.25px;
+        padding-top: 18.75px;
+    }
+    .client {
+        padding-left: 21.25px;
+    }
+    .client-name {
+        margin-top: 5px;
+        margin-bottom: -1.25px;
+    }
+    .clients-list li img,
+    .clients img {
+        width: 47px;
+        height: 47px;
+        border: 0.5px solid #FFFFFF;
+    }
+    .slides input {
+        width: 0.25rem;
+        height: 0.25rem;
+    }
+    .slider-input {
+        margin-top: 180px;
+        width: 0.25rem;
+        height: 0.25rem;
+    }
+    #slide1 {
+        margin-right: 16.25px;
+    }
+    #slide3 {
+        margin-left: 16.25px;
+    }
+    .slider .text {
+        width: 121.25px;
+        padding: 35px 2.5px 0px 0px;
+        margin-left: 45px;
+    }
+    .slider-content {
+        height: 185px;
+    }
+    .slide-content {
+        width: 192.25px;
+        height: 170px;
+        margin: 0 1.25px;
+        border-radius: 10px;
+    }
+    .slide-content button {
+        border-radius: 10px;
+    }
+    #slider-button {
+        width: 192.25px;
+        border-radius: 10px;
+    }
+    #slide1:checked~.slides .s1 {
+        margin-left: 395px;
+    }
+    #slide3:checked~.slides .s1 {
+        margin-left: -395px;
+    }
+    .slider {
+        padding: 0 12.5px;
+        height: 250px;
+    }
+    /* TEAM and PARTNERS*/
+    .member-list {
+        padding: 13.75px 0 0 0;
+        margin-left: -22.5px;
+    }
+    .member {
+        padding-left: 22.5px;
+    }
+    .member-img {
+        width: 47px;
+        height: 47px;
+        border-radius: 75px;
+        border: 0.5px solid #221F20;
+    }
+    .member-name {
+        padding-top: 2.5px;
+    }
+    .position {
+        margin-top: -4px;
+        margin-bottom: 4px;
+    }
+    .team-links a {
+        padding: 0 0px;
+        margin: 0 -7px;
+    }
+    .team-links {
+        margin: 0;
+    }
+    .team-links a img {
+        width: 25%;
+        height: 25%;
+    }
+    .slider-svg {
+        width: 146px;
+        height: 87px;
+        margin-top: 35px;
+        margin-right: 12.5px;
+    }
+    .slider2-svg {
+        width: 146px;
+        height: 134.75px;
+        margin-top: -7.5px;
+        margin-right: 12.5px;
+    }
+    /* CONTACTS */
+    #contacts {
+        min-height: 180px;
+    }
+    .contacts-list {
+        padding-top: 15.5px;
+        margin-right: -25px;
+    }
+    .contacts-list ul li img {
+        height: 31.25px;
+    }
+    .contacts-list p {
+        padding-top: 5px;
+        padding-right: 25px;
+    }
+    /* FOOTER */
+    footer {
+        min-height: 121.25px;
+    }
+    .logos ul li {
+        margin: 0 0 -10px 10px;
+    }
+    .logos ul li a img {
+        height: 5.8925px;
+    }
+    .privacy p {
+        margin: 0 0 0 8.75px;
+    }
+    .privacy {
+        margin-left: 20px;
+    }
+    .logo p {
+        padding-top: 2.5px;
+    }
+    .logo img {
+        width: 62.3925px;
+        height: 9.4125px;
+    }
+    .footer {
+        padding-top: 25px;
+    }
+    .two {
+        padding-top: 15px;
+    }
+    .footer-list {
+        padding-top: 3px;
+        line-height: 10px;
+    }
+    .footer-list li a::after {
+        height: 0.5px;
+    }
+    .footer-menu2 {
+        padding-left: 12px;
+    }
+    .send {
+        padding-left: 23.75px;
+    }
+    .send p {
+        padding-top: 3px;
+        margin-bottom: 10px;
+    }
+    .send input {
+        border: 0.25px solid #FFFFFF;
+        height: 12.5px;
+        border-radius: 10px;
+        padding-left: 2.5px;
+        font-size: 4px;
+    }
+    .send input::placeholder {
+        font-size: 3.5px;
+    }
+    .email {
+        width: 156.25px;
+    }
+    .send-email {
+        right: 20px;
+        width: 8.75px;
+        height: 7.5px;
+    }
+    .send-email img {
+        width: 7.5625px;
+    }
+    .privacy {
+        padding-bottom: 12.5px;
+    }
+    .footer-decor {
+        margin-top: -12.5px;
+        padding-left: 10px;
+    }
+    .footer-decor img {
+        width: 51.62px;
+        height: 47.605px;
+    }
+    .left-image svg {
+        width: 79.12px !important;
+        height: 72.965px !important;
+        margin-left: 5px;
+        margin-top: 1.25px;
+    }
+    .modal-center {
+        padding-top: 22.5px;
+    }
+    .modal-center img {
+        width: 86.1725px;
+        height: 13px;
+    }
+    .modal-center span {
+        top: 50px;
+        width: 67.25px;
+        height: 16px;
+        border: 0.5px solid;
+    }
+    .right-image {
+        padding: 118.25px 26.25px 0 0;
+    }
+    .right-image svg {
+        width: 25px;
+        height: 25px;
+    }
+    .wrapper {
+        height: 112.5px;
+        padding: 0.25rem;
+    }
+    #partners .wrapper {
+        height: 102.5px;
+    }
+    #team {
+        padding-bottom: 12.5px;
+    }
+    #partners {
+        padding-bottom: 22.5px;
+    }
+    .wrapper input {
+        margin-right: 0.25rem;
+        width: 0.25rem;
+        height: 0.25rem;
+    }
+    .wrapper input+* {
+        border-radius: 1.25px;
+    }
+    .circle {
+        width: 25px;
+        height: 25px;
+        margin-top: 76.25px;
+        margin-left: 42.5px;
+    }
+    .sliders {
+        margin-top: -20px;
+    }
+    #slider-button,
+    #slider-button:active {
+        width: 192.25px;
+    }
+    .content {
+        height: 200px;
+    }
+    .slider img {
+        width: 28px;
+        height: 28px;
+        border: 0.5px solid #FFF;
+    }
+    .slider-top {
+        height: 25px;
+        padding: 8.75px 0 0 0;
+    }
+    .slider-left p {
+        width: 50px;
+        margin-left: -11.25px;
+    }
+    .company-name {
+        width: 50px;
+        padding: 9.25px 0 0 0;
+    }
+}

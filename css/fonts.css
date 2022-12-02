@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "M PLUS 1 SemiBold";
+    src: url("../fonts/MPLUS1-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "M PLUS 1 Regular";
+    src: url("../fonts/MPLUS1-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "M PLUS 1 Medium";
+    src: url("../fonts/MPLUS1-Medium.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "M PLUS 1 Light";
+    src: url("../fonts/MPLUS1-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "M PLUS 1 ExtraLight";
+    src: url("../fonts/MPLUS1ExtraLight.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "M PLUS 1 ExtraBold";
+    src: url("../fonts/MPLUS1-ExtraBold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "M PLUS 1 Bold";
+    src: url("../fonts/MPLUS1-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "M PLUS 1 Black";
+    src: url("../fonts/MPLUS1-Black.ttf") format("truetype");
+}
