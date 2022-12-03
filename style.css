@@ -177,6 +177,9 @@
         justify-content: center;
         align-items: center;
         border-radius: 166px;
+        border-color: #EC5430;
+        border-width: 1px;
+        border-style: solid;
     }
     
     .navbar-button:hover {
