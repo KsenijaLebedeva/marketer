@@ -957,7 +957,7 @@
     }
     .start {
         line-height: 30px;
-        font-size: 18px;
+        font-size: 20px;
     }
     .footer h2 {
         font-size: 6.5px;
@@ -1274,14 +1274,14 @@
         max-width: 100%;
     }
     .modal-center img {
-        width: 300px;
+        width: 280px;
         max-width: 320px !important;
         height: auto;
     }
     .modal-center span {
         top: 80px;
-        width: 300px;
-        height: 50px;
+        width: 280px;
+        height: 55px;
         border: 1.2px solid;
     }
     .right-image {
