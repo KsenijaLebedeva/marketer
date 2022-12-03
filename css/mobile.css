@@ -49,6 +49,7 @@
     .heading span {
         height: 85.6px;
         border: 0.8px solid #EC5430 !important;
+        -webkit-border: 0.8px solid #EC5430 !important;
         padding-bottom: 14.4px;
     }
     .text {
@@ -88,10 +89,13 @@
         width: 153.6px;
         height: 32px;
         border: 0.8px solid #EC5430;
+        -webkit-border: 0.8px solid #EC5430;
         border-radius: 132.8px;
+        -webkit-border-radius: 132.8px;
     }
     .navbar-button:hover {
         border: 0.8px solid #1a733a;
+        -webkit-border: 0.8px solid #1a733a;
     }
     /* header content */
     .header-text {
