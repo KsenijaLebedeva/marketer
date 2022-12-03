@@ -26,6 +26,8 @@
         -webkit-text-decoration-color: #EC5430 !important;
         text-underline-position: under;
         -webkit-text-underline-position: under;
+        text-decoration-skip-ink: none;
+        -webkit-text-decoration-skip-ink: none;
     }
     
     h1,
