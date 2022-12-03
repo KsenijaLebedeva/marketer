@@ -24,8 +24,8 @@
         -webkit-text-decoration-line: underline !important;
         text-decoration-color: #EC5430 !important;
         -webkit-text-decoration-color: #EC5430 !important;
-        text-underline-offset: 4px;
-        -webkit-text-underline-offset: 4px;
+        text-underline-offset: 8px;
+        -webkit-text-underline-offset: 8px;
         text-underline-position: auto;
         -webkit-text-underline-position: auto;
     }
