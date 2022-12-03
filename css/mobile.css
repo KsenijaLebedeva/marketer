@@ -967,12 +967,12 @@
     .navbar-button {
         width: 76px;
         height: 18px;
-        margin: 7px 0 10px 0;
-        border: 0.25px solid #EC5430;
+        margin: 7px 0 10px 0.2px;
+        border: 0.3px solid #EC5430;
         border-radius: 41.5px;
     }
     .navbar-button:hover {
-        border: 0.25px solid #1a733a;
+        border: 0.3px solid #1a733a;
     }
     /* header content */
     .header-text {
