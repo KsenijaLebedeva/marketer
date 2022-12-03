@@ -1062,7 +1062,7 @@
     .clients-list li img,
     .clients img {
         width: 47px;   
-        border: 0.6px solid #FFFFFF;
+        border: 0.7px solid #FFFFFF;
         height: 47px;
     }
     .slides input {
@@ -1317,7 +1317,7 @@
     .slider img {
         width: 28px;
         height: 28px;
-        border: 1px solid #FFF;
+        border: 0.7px solid #FFF;
     }
     .slider-top {
         height: 25px;
