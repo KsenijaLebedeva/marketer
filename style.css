@@ -26,6 +26,8 @@
         -webkit-text-decoration-color: #EC5430 !important;
         text-underline-position: under;
         -webkit-text-underline-position: under;
+        text-underline-offset: 3px;
+        -webkit-text-underline-offset: 3px;
     }
     
     h1,
