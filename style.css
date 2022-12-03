@@ -28,6 +28,8 @@
         -webkit-text-underline-position: under;
         text-underline-offset: 0px;
         -webkit-text-underline-offset: 0px;
+        text-underline-position: auto;
+        -webkit-text-underline-position: auto;
     }
     
     h1,
