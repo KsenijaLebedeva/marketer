@@ -1053,10 +1053,6 @@
     }
     .client {
         padding-left: 0;
-        width: 47px;
-        height: 47px;
-        border: 0.65px solid #FFFFFF;
-        border-radius: 50%;
         margin-left: 21.25px;
     }
     .client-name {
@@ -1065,9 +1061,10 @@
     }
     .clients-list li img,
     .clients img {
-        width: 47px;
+        position: absolute;
+        width: 47px;   
+        border: 0.65px solid #FFFFFF;
         height: 47px;
-        border: none;
     }
     .slides input {
         width: 0.25rem;
