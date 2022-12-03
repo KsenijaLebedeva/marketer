@@ -26,8 +26,8 @@
         -webkit-text-decoration-color: #EC5430 !important;
         text-underline-position: under;
         -webkit-text-underline-position: under;
-        text-underline-offset: 0px;
-        -webkit-text-underline-offset: 0px;
+        text-underline-offset: 2px;
+        -webkit-text-underline-offset: 2px;
         text-underline-position: auto;
         -webkit-text-underline-position: auto;
     }
