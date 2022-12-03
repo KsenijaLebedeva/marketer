@@ -349,7 +349,7 @@
         width: 188px;
         height: 188px;
         border: 2px solid #FFFFFF;
-        border-radius: 300px;
+        border-radius: 50%;
     }
     
     .slides input {
