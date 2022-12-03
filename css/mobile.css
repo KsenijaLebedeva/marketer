@@ -957,7 +957,7 @@
     }
     .start {
         line-height: 30px;
-        font-size: 15px;
+        font-size: 18px;
     }
     .footer h2 {
         font-size: 6.5px;
@@ -1259,7 +1259,7 @@
         height: 47.605px;
     }
     .left-image svg {
-        width: 140px !important;
+        width: 160px !important;
         height: auto !important;
         margin-left: 0px;
         margin-top: 1.25px;
@@ -1270,17 +1270,18 @@
     }
     .modal-center {
         padding-top: 22.5px;
-        margin-top: 180px;
+        margin-top: 200px;
         max-width: 100%;
     }
     .modal-center img {
+        width: 300px;
         max-width: 320px !important;
         height: auto;
     }
     .modal-center span {
-        top: 50px;
-        width: 170px;
-        height: 40px;
+        top: 80px;
+        width: 300px;
+        height: 50px;
         border: 1.2px solid;
     }
     .right-image {
@@ -1288,11 +1289,11 @@
         position: absolute;
         right: 0;
         padding: 0 0 0 0;
-        margin: 450px 0px 0px 250px;
+        margin: 500px 0px 0px 250px;
     }
     .right-image svg {
-        width: 45px;
-        height: 45px;
+        width: 55px;
+        height: 55px;
     }
     .wrapper {
         height: 112.5px;
