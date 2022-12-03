@@ -4,8 +4,8 @@
         max-width: 1027.2px;
     }
     h1 span {
-        text-decoration-line: underline 9.6px !important;
-        -webkit-text-decoration-line: underline 9.6px !important;
+        text-decoration-thickness: 9.6px !important;
+        -webkit-text-decoration-thickness: 9.6px !important;
     }
     h1,
     .heading {
@@ -444,8 +444,8 @@
         width: 642px;
     }
     h1 span {
-        text-decoration-line: underline 6px !important;
-        -webkit-text-decoration-line: underline 6px !important;
+         text-decoration-thickness: 6px !important;
+        -webkit-text-decoration-thickness: 6px !important;
     }
     h1,
     .heading {
@@ -882,8 +882,8 @@
         width: 321px;
     }
     h1 span {
-        text-decoration-line: underline 3px !important;
-        -webkit-text-decoration-line: underline 3px !important;
+         text-decoration-thickness: 3px !important;
+        -webkit-text-decoration-thickness: 3px !important;
     }
     h1,
     .heading {
