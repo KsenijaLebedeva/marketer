@@ -956,7 +956,8 @@
         line-height: 8.75px;
     }
     .start {
-        font-size: 12px;
+        line-height: 30px;
+        font-size: 15px;
     }
     .footer h2 {
         font-size: 6.5px;
@@ -1260,7 +1261,7 @@
     .left-image svg {
         width: 140px !important;
         height: auto !important;
-        margin-left: 20px;
+        margin-left: 0px;
         margin-top: 1.25px;
     }
     .modal-row {
@@ -1279,7 +1280,7 @@
     .modal-center span {
         top: 50px;
         width: 170px;
-        height: 30px;
+        height: 40px;
         border: 1.2px solid;
     }
     .right-image {
@@ -1287,11 +1288,11 @@
         position: absolute;
         right: 0;
         padding: 0 0 0 0;
-        margin: 400px 0px 0px 250px;
+        margin: 450px 0px 0px 250px;
     }
     .right-image svg {
-        width: 50px;
-        height: 50px;
+        width: 45px;
+        height: 45px;
     }
     .wrapper {
         height: 112.5px;
