@@ -1053,7 +1053,9 @@
     }
     .client {
         padding-left: 0;
-        float: center;
+        width: 47px;
+        height: 47px;
+        border: 0.65px solid #FFFFFF;
         margin-left: 21.25px;
     }
     .client-name {
@@ -1064,7 +1066,7 @@
     .clients img {
         width: 47px;
         height: 47px;
-        border: 0.65px solid #FFFFFF;
+        border: none;
     }
     .slides input {
         width: 0.25rem;
