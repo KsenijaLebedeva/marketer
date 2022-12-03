@@ -1053,6 +1053,7 @@
     }
     .client {
         padding-left: 0;
+        float: center;
         margin-left: 21.25px;
     }
     .client-name {
